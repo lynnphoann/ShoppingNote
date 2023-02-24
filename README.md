@@ -25,4 +25,5 @@ Cross-device functionality for ease of use on all devices.
 ![ShoppingNote](https://user-images.githubusercontent.com/45825771/220944217-3d4fef2a-45c1-49b1-a48f-dde518225b25.gif)
 
 
-![Screenshot_20230223-220958](https://user-images.githubusercontent.com/45825771/221214175-112734e3-c90e-4c77-9ebe-fa58cc8a5141.jpg)
+
+![Screenshot_20230223-220958](https://user-images.githubusercontent.com/45825771/221214386-3d02191c-9091-4d6b-ba50-8d111bb5ac09.jpg)
