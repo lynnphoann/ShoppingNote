@@ -1,6 +1,7 @@
 # shoppingnote
 
 This is my first Flutter Project!!!
+
 shopping note app helps you keep track of your shopping list and expenses.
 You can easily add and delete items, note down prices, and see a chart of your spending over the past seven days.
 
