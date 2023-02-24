@@ -26,5 +26,6 @@ Cross-device functionality for ease of use on all devices.
 
 
 
-![Screenshot_20230223-220958](https://user-images.githubusercontent.com/45825771/221214386-3d02191c-9091-4d6b-ba50-8d111bb5ac09.jpg)          ![Screenshot_20230223-221001](https://user-images.githubusercontent.com/45825771/221215014-495cde90-f07b-4701-9676-adfc03cddd7b.jpg)    
-![Screenshot_20230223-221025](https://user-images.githubusercontent.com/45825771/221215040-53e05ce4-a865-484d-ad2f-7b839dd5d511.jpg)          ![Screenshot_20230223-221031](https://user-images.githubusercontent.com/45825771/221215048-1c9208f5-c86e-4d54-8785-66b9c34e2eb4.jpg)
+![Screenshot_20230223-220958](https://user-images.githubusercontent.com/45825771/221214386-3d02191c-9091-4d6b-ba50-8d111bb5ac09.jpg)                                           ![Screenshot_20230223-221001](https://user-images.githubusercontent.com/45825771/221215014-495cde90-f07b-4701-9676-adfc03cddd7b.jpg)    
+![Screenshot_20230223-221025](https://user-images.githubusercontent.com/45825771/221215040-53e05ce4-a865-484d-ad2f-7b839dd5d511.jpg)          
+![Screenshot_20230223-221031](https://user-images.githubusercontent.com/45825771/221215048-1c9208f5-c86e-4d54-8785-66b9c34e2eb4.jpg)
