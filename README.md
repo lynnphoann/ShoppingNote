@@ -14,6 +14,11 @@ Cross-device functionality for ease of use on all devices.
 
 
 
+
+
+
+
+
 ショッピングノートアプリは、買い物リストと支出を追跡するのに役立ちます。
 アイテムを簡単に追加・削除し、価格を記録し、過去7日間の支出をグラフで表示できます。
 
@@ -31,7 +36,12 @@ Cross-device functionality for ease of use on all devices.
 
 
 
+
+
 ![ShoppingNote](https://user-images.githubusercontent.com/45825771/220944217-3d4fef2a-45c1-49b1-a48f-dde518225b25.gif)
+
+
+
 
 
 
