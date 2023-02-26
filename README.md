@@ -8,7 +8,7 @@ You can easily add and delete items, note down prices, and see a chart of your s
 Features -
 User interface for adding and deleting items to shopping list
 
-bility to note down prices for each item on the shopping list
+Ability to note down prices for each item on the shopping list
 
 Chart to display user's spending over the past seven days
 
